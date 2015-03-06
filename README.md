@@ -13,6 +13,7 @@ Useful blogs to follow
 - [Kifi](http://eng.kifi.com/)
 - [Cake Solutions](http://www.cakesolutions.net/teamblogs)
 - [Eigengo](http://blog.eigengo.com/)
+- [Square](https://corner.squareup.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
