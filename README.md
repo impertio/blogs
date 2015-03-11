@@ -22,6 +22,9 @@ Useful blogs to follow
 - [Yevgeniy Brikman](http://www.ybrikman.com/writing)
 - [Mandubian](http://mandubian.com/)
 
+### Java
+- [Oracle](http://docs.oracle.com/javase/tutorial/index.html)
+
 ### Type Systems
 - [Existential Type](https://existentialtype.wordpress.com/)
 
