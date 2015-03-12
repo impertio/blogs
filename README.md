@@ -35,3 +35,7 @@ Useful blogs to follow
 ### Computer Science
 - [Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html)
 - [Deniz Yuret](http://www.denizyuret.com/)
+
+### Security
+- [Android Security Wiki](https://androidsecuritywiki.com/)
+- [DroidSec](http://www.droidsec.org/wiki/)
