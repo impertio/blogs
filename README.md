@@ -14,6 +14,7 @@ Useful blogs to follow
 - [Cake Solutions](http://www.cakesolutions.net/teamblogs)
 - [Eigengo](http://blog.eigengo.com/)
 - [Square](https://corner.squareup.com/)
+- [Instagram](http://instagram-engineering.tumblr.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
@@ -39,3 +40,6 @@ Useful blogs to follow
 ### Security
 - [Android Security Wiki](https://androidsecuritywiki.com/)
 - [DroidSec](http://www.droidsec.org/wiki/)
+
+### Android
+- [Android Developers Blog](http://android-developers.blogspot.de/)
