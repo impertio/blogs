@@ -25,6 +25,7 @@ Useful blogs to follow
 
 ### Java
 - [Oracle](http://docs.oracle.com/javase/tutorial/index.html)
+- [Java-Latte](http://java-latte.blogspot.in/)
 
 ### Type Systems
 - [Existential Type](https://existentialtype.wordpress.com/)
