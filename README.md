@@ -15,6 +15,7 @@ Useful blogs to follow
 - [Eigengo](http://blog.eigengo.com/)
 - [Square](https://corner.squareup.com/)
 - [Instagram](http://instagram-engineering.tumblr.com/)
+- [Spotify](https://labs.spotify.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
