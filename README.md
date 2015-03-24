@@ -16,6 +16,7 @@ Useful blogs to follow
 - [Square](https://corner.squareup.com/)
 - [Instagram](http://instagram-engineering.tumblr.com/)
 - [Spotify](https://labs.spotify.com/)
+- [Pinterest](http://engineering.pinterest.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
