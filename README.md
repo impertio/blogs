@@ -31,6 +31,9 @@ Useful blogs to follow
 ### Type Systems
 - [Existential Type](https://existentialtype.wordpress.com/)
 
+### Functional Programming
+- [TypeOCaml](http://typeocaml.com/)
+
 ### Distributed Systems
 - [Peter Bailis](http://www.bailis.org/blog/)
 - [Murat Demirbas](http://muratbuffalo.blogspot.com.tr/)
