@@ -41,6 +41,7 @@ Useful blogs to follow
 ### Computer Science
 - [Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html)
 - [Deniz Yuret](http://www.denizyuret.com/)
+- [Math intersect Programming](http://jeremykun.com/)
 
 ### Security
 - [Android Security Wiki](https://androidsecuritywiki.com/)
