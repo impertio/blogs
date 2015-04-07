@@ -18,6 +18,7 @@ Useful blogs to follow
 - [Spotify](https://labs.spotify.com/)
 - [Pinterest](http://engineering.pinterest.com/)
 - [Dropbox](https://blogs.dropbox.com/tech/)
+- [Foursquare](http://engineering.foursquare.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
