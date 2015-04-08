@@ -19,6 +19,7 @@ Useful blogs to follow
 - [Pinterest](http://engineering.pinterest.com/)
 - [Dropbox](https://blogs.dropbox.com/tech/)
 - [Foursquare](http://engineering.foursquare.com/)
+- [Flickr](http://code.flickr.net/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
