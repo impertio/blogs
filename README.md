@@ -21,6 +21,7 @@ Useful blogs to follow
 - [Foursquare](http://engineering.foursquare.com/)
 - [Flickr](http://code.flickr.net/)
 - [Yelp](http://engineeringblog.yelp.com/)
+- [Vine](http://engineering.vine.co/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
