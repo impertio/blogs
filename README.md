@@ -22,6 +22,7 @@ Useful blogs to follow
 - [Flickr](http://code.flickr.net/)
 - [Yelp](http://engineeringblog.yelp.com/)
 - [Vine](http://engineering.vine.co/)
+- [Heroku](http://engineering.heroku.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
