@@ -24,6 +24,7 @@ Useful blogs to follow
 - [Vine](http://engineering.vine.co/)
 - [Heroku](http://engineering.heroku.com/)
 - [Airbnb](http://nerds.airbnb.com/)
+- [GitHub](http://githubengineering.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
