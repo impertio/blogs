@@ -25,6 +25,7 @@ Useful blogs to follow
 - [Heroku](http://engineering.heroku.com/)
 - [Airbnb](http://nerds.airbnb.com/)
 - [GitHub](http://githubengineering.com/)
+- [Glassdoor](http://geeking.glassdoor.com/)
 
 ### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
