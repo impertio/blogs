@@ -1,7 +1,7 @@
 # blogs
 Useful blogs to follow
 
-### Companys' Tech Blogs
+#### Companys' Tech Blogs
 - [Twitter](https://blog.twitter.com/engineering)
 - [Netflix](http://techblog.netflix.com/)
 - [Linkedin](http://engineering.linkedin.com/blog)
@@ -27,34 +27,36 @@ Useful blogs to follow
 - [GitHub](http://githubengineering.com/)
 - [Glassdoor](http://geeking.glassdoor.com/)
 
-### Software Development
+#### Software Development
 - [Joel Spolsky](http://www.joelonsoftware.com/)
 - [Martin Thompson](http://mechanical-sympathy.blogspot.com.tr/)
 - [Paul Graham](http://paulgraham.com/articles.html)
 - [Yevgeniy Brikman](http://www.ybrikman.com/writing)
 - [Mandubian](http://mandubian.com/)
+- [Jeff Atwood](http://blog.codinghorror.com/)
+- [Scott Hanselman](http://www.hanselman.com/blog/)
 
-### Java
+#### Java
 - [Oracle](http://docs.oracle.com/javase/tutorial/index.html)
 
-### Type Systems
+#### Type Systems
 - [Existential Type](https://existentialtype.wordpress.com/)
 
-### Functional Programming
+#### Functional Programming
 - [TypeOCaml](http://typeocaml.com/)
 
-### Distributed Systems
+#### Distributed Systems
 - [Peter Bailis](http://www.bailis.org/blog/)
 - [Murat Demirbas](http://muratbuffalo.blogspot.com.tr/)
 
-### Computer Science
+#### Computer Science
 - [Leslie Lamport](http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html)
 - [Deniz Yuret](http://www.denizyuret.com/)
 - [Math intersect Programming](http://jeremykun.com/)
 
-### Security
+#### Security
 - [Android Security Wiki](https://androidsecuritywiki.com/)
 - [DroidSec](http://www.droidsec.org/wiki/)
 
-### Android
+#### Android
 - [Android Developers Blog](http://android-developers.blogspot.de/)
